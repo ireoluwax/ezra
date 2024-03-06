@@ -1,6 +1,6 @@
 # Micro-capstone-2
 
-# Project Name : Microverse Capstone 2
+# Project Name : Ezra
 This a single page food app where you can comment and like your favourite meal. 
 >   
 >
