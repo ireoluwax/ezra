@@ -12,10 +12,6 @@ This a single page food app where you can comment and like your favourite meal.
 - Bundled with webpack
 - Gitflow and Github flow 
 
-## Showcase
-![chrome-capture-2022-7-1 (1)](https://user-images.githubusercontent.com/8858461/182115035-4431c462-288e-4cab-8707-66ba9f8db0f5.gif)
-
-
 ## [Live Demo](https://foodiewebapp.netlify.app)
 
 ## [Project presentation](https://drive.google.com/file/d/1ZcokS3rfZnWzMZBxaGcTD2gMQ_DWv-oY/view?usp=sharing)
@@ -25,7 +21,6 @@ This a single page food app where you can comment and like your favourite meal.
 - Involvement API - https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270
 - Food API - https://foodish-api.herokuapp.com/
 - Resturant Design - https://www.behance.net/gallery/96647171/Foodie-Landing-Page?tracking_source=search_projects%7Cfood%20website%20
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ## Getting Started
 
@@ -38,7 +33,6 @@ This project is open source and you are free take modify and do with as you wish
 - Knowledge of  basic of HTML and CSS.
 
 ### Setup 🎰
--  Click the this [link](https://github.com/c3c1l1a/pair-programming-awesome-books.git) to clone down the source code or download it as a [zip file](https://github.com/c3c1l1a/pair-programming-awesome-books/archive/refs/heads/main.zip)
 
 
 ### Install 
@@ -48,7 +42,7 @@ This project is open source and you are free take modify and do with as you wish
 - Use the `yarn test` command to run all the unit test
 
 ### Run webpack live server
-- use `yarn start` to open the app with webpacks live server
+- use `yarn sart` to open the app with webpacks live server
 
 ### Build for deployment
 - use `yarn run build` to build files for deployment and distribution
@@ -63,22 +57,9 @@ This project is open source and you are free take modify and do with as you wish
 
 ## Authors
 
-👤 **Cecilia Mukima**
+👤 **Ifede Ireoluwa**
 
-- GitHub: [@c3c1l1a](https://github.com/c3c1l1a/)
-- Twitter: [@cMukima](https://twitter.com/CMukima)
-- LinkedIn: [cecilia-wangui-mukima](https://linkedin.com/in/linkedinhandle)
-- Profile [c3cl1ia.github.io](https://c3c1l1a.github.io)
-
-**Bello Oluwatomisin**
-
-- GitHub: [@ct-bello7](https://github.com/t-bello7)
-- Twitter: [@__tbello](https://twitter.com/__tbello)
-- LinkedIn: [tbello7](https://www.linkedin.com/in/tbello7/)
-- Profile [https://tbello.tech](https://tbello.tech)
-
-
-
+- GitHub: [@ireoluwax](https://github.com/ireoluwax/)
 
 ## 🤝 Contributing
 
